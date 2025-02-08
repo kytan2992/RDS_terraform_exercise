@@ -1,2 +1,2 @@
-# coaching8
-ce8 coaching ex 8
+# RDS Terraform Exercise
+Terraform code for creating RDS mySQL database with IAM role and an EC2 for read access
